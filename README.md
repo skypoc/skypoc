@@ -94,4 +94,7 @@
   <a href="https://github.com/skypoc/XPathPwn">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=skypoc&repo=XPathPwn&theme=tokyonight"/>
   </a>
+   <a href="https://github.com/skypoc/AuthPwn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skypoc&repo=AuthPwn&theme=tokyonight"/>
+  </a>
 </p>
